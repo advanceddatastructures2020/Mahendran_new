@@ -41,7 +41,7 @@ void main()
    adjlistRep(adj1,en,s);
  }
  dfs();
- dfs();
+ dfs1();
  getch();
 }
 void dfs()
